@@ -1,2 +1,0 @@
-# NeighbourhoodProject
-Hello Capstone Project!
